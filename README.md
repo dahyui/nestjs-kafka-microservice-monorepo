@@ -1,4 +1,6 @@
-# NestJsMonorepo
+# NestJs Monorepo + Kafka
+
+Implements a basic event driven application to register a user and make a payment for the user all using Kafka as the message broker.
 
 <a alt="Nx logo" href="https://nx.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="45"></a>
 
